@@ -1,0 +1,3 @@
+- Redesigned UI. 
+- Weekly programme guide. 
+- Background audio bug fixed.

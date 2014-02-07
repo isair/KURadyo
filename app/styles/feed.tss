@@ -1,0 +1,19 @@
+"#backButton":
+{
+    top: "7%",
+    left: "5%",
+    title: "  Back  "
+},
+"feedView":
+{
+    top: "15%",
+    width: "90%",
+    height: "80%"
+}
+"#feedPage":
+{
+    top: "15%",
+    width: "100%",
+    height: "80%",
+    url: "http://radyo.ku.edu.tr/yayin.html"
+}

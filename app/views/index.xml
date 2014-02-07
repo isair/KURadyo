@@ -1,0 +1,7 @@
+<Alloy>
+	<Window>
+		<Button id="feedButton" />
+		<ImageView id="toggleButton" />
+		<Slider id="volumeSlider" />
+	</Window>
+</Alloy>

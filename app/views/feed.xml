@@ -1,0 +1,7 @@
+<Alloy>
+    <Window>
+        <Button id="backButton" />
+        <WebView id="feedPage" scalesPageToFit="false" visible="false"
+            enableZoomControls="false" showScrollbars="false" />
+    </Window>
+</Alloy>

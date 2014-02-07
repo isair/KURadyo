@@ -1,0 +1,26 @@
+"Window":
+{
+	backgroundColor: "#ffffff"
+},
+"Button":
+{
+    width: Ti.UI.SIZE,
+    height: Alloy.Globals.buttonHeight,
+	backgroundColor: "transparent",
+	borderColor: "#000000",
+	backgroundColor: "#000000",
+	color: "#ffffff",
+	borderRadius: Alloy.Globals.borderRadius,
+	borderWidth: Alloy.Globals.borderWidth,
+	font:
+	{
+	    fontSize: Alloy.Globals.fontSize,
+        fontFamily: 'Helvetica Neue'
+    }
+},
+"Slider":
+{
+    leftTrackImage: "/slider_left.png",
+    rightTrackImage: "/slider_right.png"/*,
+    thumbImage: "/slider_thumb.png"*/
+}

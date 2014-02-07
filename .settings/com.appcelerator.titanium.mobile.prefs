@@ -1,0 +1,10 @@
+android/ATTR_MINIFY=true
+android/ATTR_PROJECT_NAME=KURadyo
+android/abi=armeabi
+android/distribute_path=/Users/Isair/Desktop
+android/keystore_alias=google play keystore
+android/keystore_password=
+android/keystore_path=/Users/Isair/Dropbox/TitaniumStudio/KURadyo/KURadyo.keystore
+android/recent_output=/Users/Isair/Desktop
+android/sdk_version=Android 2.2
+eclipse.preferences.version=1
